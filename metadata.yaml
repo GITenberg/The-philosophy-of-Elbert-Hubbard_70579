@@ -1,0 +1,46 @@
+_repo: The-philosophy-of-Elbert-Hubbard_70579
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Hoyle, John T. (John Thomas)
+    birthdate: 1873
+    gutenberg_agent_id: '55803'
+    url: http://www.gutenberg.org/2009/agents/55803
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Ali Baba
+    - Elbertus, Fra
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: https://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2023-04-17'
+identifiers:
+  gutenberg: '70579'
+language: en
+pgterms:marc904: https://archive.org/details/hubbardphilosophy/page/n9/mode/2up
+pgterms:marc905: 20210528144025hubbard
+pgterms:marc906: '1916'
+pgterms:marc907: IT
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aItaly :$bThe Roycrofters, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The American philosophy -- Freedom and responsibility -- Corporal
+  punishment -- Purpled ease -- Consecrated lives -- Marriage and divorce -- The taxation
+  of church property -- Free motherhood -- Why I am a Philistine -- Oral righteousness
+  -- The health habit -- The Elks' creed -- Remember the weekday -- Reciprocity --
+  Vaccination -- Equal suffrage -- Just boys -- The sea -- Epigrams.
+title: The philosophy of Elbert Hubbard
+url: http://www.gutenberg.org/ebooks/70579
