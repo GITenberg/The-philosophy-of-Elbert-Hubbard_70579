@@ -6,6 +6,9 @@ contributor:
     birthdate: 1873
     gutenberg_agent_id: '55803'
     url: http://www.gutenberg.org/2009/agents/55803
+covers:
+- cover_type: archival
+  image_path: 70579-h/images/cover.jpg
 creator:
   author:
     agent_name: Hubbard, Elbert
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: https://en.wikipedia.org/wiki/Elbert_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70579#The-philosophy-of-Elbert-Hubbard
 gutenberg_issued: '2023-04-17'
 identifiers:
   gutenberg: '70579'
